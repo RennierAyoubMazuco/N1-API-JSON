@@ -2,6 +2,7 @@
 
 Rennier Ayoub Mazuco - EC07
 
-Professor, o código esta feito na tab04 do projeto que o senhor forneceu para nós.
+Professor,
+Todo o programa esta zipado, eu enviei fora do ZIP o tab04 (que foi o codigo que eu fiz) para ficar mais facil a visualização, porém ele se encontra dentro do ZIP também.
 
 API: Mostra o significado de 3 números escolhidos.
